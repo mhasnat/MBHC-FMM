@@ -5,6 +5,8 @@ This reposity provides MATLAB implementation of: Model-based hierarchical cluste
 
 - There are three demo files to demonstrate the above mentioned tasks.
 
+Note: Four files: emsamp.m, vsamp.m, unitrand.m and house.m are added here for sampling samples from a specified vMF mixture model. Those files are taken from 'vmfmatlab' code, which is available online.
+
 References:
 
 [1] Hasnat et al., Model-based hierarchical clustering with Bregman divergences and Fishers mixture model: application to depth image analysis. Statistics and Computing, 1-20, 2015.
