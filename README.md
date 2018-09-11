@@ -11,6 +11,6 @@ References:
 
 [1] Hasnat et al., Model-based hierarchical clustering with Bregman divergences and Fishers mixture model: application to depth image analysis. Statistics and Computing, 1-20, 2015. [`pdf download`](https://link.springer.com/epdf/10.1007/s11222-015-9576-3?author_access_token=guKHP_biEt1GZJH3orEjaPe4RwlQNchNByi7wbcMAY7phLRhrbt4ZOG8_2kzHa9Hk7sydZ5efCB8Saw_dieaoRCLdI5FVvwJwcLaa_D3M8GTfE1Hrg5TgMmpQisxS7GVaHibDAPx7v9GUyoqrO5GBw%3D%3D)
 
-[2] Hasnat, M. A., Alata, O., & Trémeau, A. (2014, October). Model based clustering for 3D directional features: application to depth image analysis. In IEEE International Conference on Image Processing (ICIP), pp. 3768-3772, 2014.
+[2] Hasnat, M. A., Alata, O., & Trémeau, A. (2014, October). Model based clustering for 3D directional features: application to depth image analysis. In IEEE International Conference on Image Processing (ICIP), pp. 3768-3772, 2014. [`pdf download`](https://www.researchgate.net/publication/264505650_Model_Based_Clustering_for_3D_Directional_Features_Application_to_Depth_Image_Analysis)
 
-[3] Hasnat et al., Hierarchical 3-D von Mises-Fisher Mixture Model, In 1st Workshop on Divergences and Divergence Learning (ICML-WDDL), 2013.
+[3] Hasnat et al., Hierarchical 3-D von Mises-Fisher Mixture Model, In 1st Workshop on Divergences and Divergence Learning (ICML-WDDL), 2013. [`pdf download`](https://pdfs.semanticscholar.org/c2b5/58da937a6568fc173b41fa0ad308311cb501.pdf)
